@@ -2,15 +2,13 @@
 
 Learn to get started using DISCOTRESS with these tutorials! Then apply the methods to your own Markov chains 🦜🌴💸📈🧬🦠
 
-.center[
+<p align = center>
 
-![Example first passage time distribution](https://github.com/danieljsharpe/DISCOTRESS_tutorials/blob/master/fpt_distribn_example.pdf?raw=true)
+  ![Example first passage time distribution](https://github.com/danieljsharpe/DISCOTRESS_tutorials/blob/master/fpt_distribn_example.svg?raw=true)
 
-.caption[
-**Numerical estimate of the first passage time (FPT) distribution from dynamical simulations; one of many quantities that can be computed using DISCOTRESS.**
-]
+  **Numerical estimate of the first passage time (FPT) distribution from dynamical simulations; one of many quantities that can be computed using DISCOTRESS.**
+</p>
 
-]
 
 ## Overview of tutorials
 
