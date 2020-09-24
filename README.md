@@ -1,12 +1,15 @@
 # DISCOTRESS tutorials
 
-Learn to get started using DISCOTRESS with these tutorials! Then apply the methods to your own Markov chains 🦜🌴💸📈🧬🦠
+Learn to get started using DISCOTRESS with these tutorials, then apply the methods to your own Markov chains! Markov chains can be used to model phenomena as varied and exciting as:
+- animal movement with an ecosystem, such as bird migration 🐦🦜 or foragig 🐘
+- the variation in populations of species within an ecosystem, for example arising from predator-prey interactions 🐺🦌 competition for limited resources 🐻🐟 or the introduction of a parasite 🦟 or invasive species 🐍
+- the fluctuating status of financial markets 💸📈
+- the structural transitions as a protein, DNA, or RNA molecule folds to its functional shape 🧬
+- the distribution of molecule copy numbers in biochemical or chemical reaction cycles or gene regulatory networks 🦠
 
-<p align = center>
-
+<p align="center">
   ![Example first passage time distribution](https://github.com/danieljsharpe/DISCOTRESS_tutorials/blob/master/fpt_distribn_example.svg?raw=true)
-
-  **Numerical estimate of the first passage time (FPT) distribution from dynamical simulations; one of many quantities that can be computed using DISCOTRESS.**
+  _Numerical estimate of the first passage time (FPT) distribution from dynamical simulations; one of many quantities that can be computed using DISCOTRESS._
 </p>
 
 

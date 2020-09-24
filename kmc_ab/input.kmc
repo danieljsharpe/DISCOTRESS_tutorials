@@ -1,5 +1,4 @@
 NNODES 15
-! this is a comment
 NEDGES 28
 WRAPPER NONE
 TRAJ BKL
