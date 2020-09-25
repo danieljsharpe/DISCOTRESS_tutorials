@@ -1,7 +1,7 @@
 # DISCOTRESS tutorials
 
-Learn to get started using DISCOTRESS with these tutorials, then apply the methods to your own Markov chains! Markov chains can be used to model phenomena as varied and exciting as:
-- animal movement with an ecosystem, such as bird migration 🐦🦜 or foraing 🐘🌴
+Learn to get started using [DISCOTRESS](https://github.com/danieljsharpe/DISCOTRESS) with these tutorials, then apply the methods to your own Markov chains! Markov chains can be used to model phenomena as varied and exciting as:
+- animal movement with an ecosystem, such as bird migration 🐦🦜or foraging 🐘🌴
 - the variation in populations of species within an ecosystem, for example arising from predator-prey interactions 🐺🦌 competition for limited resources 🐻🐟 or the introduction of a parasite 🦟 or invasive species 🐍
 - the fluctuating status of financial markets 💸📈
 - the structural transitions as a protein, DNA, or RNA molecule folds to its functional shape 🧬
