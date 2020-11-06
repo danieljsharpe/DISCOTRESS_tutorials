@@ -26,7 +26,7 @@ The following tutorials use simple example Markov chains to demonstrate various 
 - **mfpt\_ctmc**: you will learn to exactly compute key dynamical properties characterising an &#120068; &#8592; &#120069; transition in a continuous-time Markov chain (CTMC), using numerically stable state reduction algorithms. Namely: mean first passage times (MFPTs), committor and absorption probabilities, and the stationary distribution.
 - **mfpt\_dtmc**: repeats the same exercise for a discrete-time Markov chain (DTMC).
 - **kmc\_ab**: you will learn to use the standard kinetic Monte Carlo (kMC) (aka Bortz-Kalos-Lebowitz, BKL) algorithm to simulate &#120068; &#8592; &#120069; paths.
-- **kps\_ab**: you will learn to use the kinetic path sampling (kPS) algorithm to simulate A<-B paths.
+- **kps\_ab**: you will learn to use the kinetic path sampling (kPS) algorithm to simulate &#120068; &#8592; &#120069; paths.
 - **dimredn**: you will learn to use kinetic path sampling (kPS) to simulate many short nonequilibrium trajectories initialised from each community, from which a coarse-grained Markov chain can be estimated and validated.
 
 Scripts to help you process the output of DISCOTRESS simulations are available [here](https://github.com/danieljsharpe/DISCOTRESS_tools).
