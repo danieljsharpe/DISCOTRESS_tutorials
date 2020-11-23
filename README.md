@@ -14,6 +14,7 @@ Finite Markov chains are network models that can be used to model phenomena as v
 - epidemic spread of a disease in a population :microbe: :syringe:
 - climate dynamics :sun_behind_rain_cloud: :tornado:
 - the fluctuating status of financial markets :money_with_wings: :chart_with_upwards_trend:
+- social groups :family: :couple:
 - structural changes in molecular and condensed matter systems, for example a protein or DNA molecule folding to its functional shape :dna: :atom_symbol:
 - the distribution of molecule copy numbers in biochemical or chemical reaction cycles or gene regulatory networks :test_tube: :petri_dish:
 
@@ -28,5 +29,6 @@ The following tutorials use simple example Markov chains to demonstrate various 
 - **kmc\_ab**: you will learn to use the standard kinetic Monte Carlo (kMC) (aka Bortz-Kalos-Lebowitz, BKL) algorithm to simulate &#120068; &#8592; &#120069; paths.
 - **kps\_ab**: you will learn to use the kinetic path sampling (kPS) algorithm to simulate &#120068; &#8592; &#120069; paths.
 - **dimredn**: you will learn to use kinetic path sampling (kPS) to simulate many short nonequilibrium trajectories initialised from each community, from which a coarse-grained Markov chain can be estimated and validated.
+- **rea**: you will learn to use the recursive enumeration algorithm (REA) to determine the *k* &#120068; &#8592; &#120069; first passage paths associated with the highest probabilities.
 
 Scripts to help you process the output of DISCOTRESS simulations are available [here](https://github.com/danieljsharpe/DISCOTRESS_tools).
