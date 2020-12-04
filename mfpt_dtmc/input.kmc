@@ -12,5 +12,5 @@ MFPT
 GTH
 COMMSFILE communities.dat 2
 NODESAFILE nodes.A 1
-NODESBFILE nodes.B 4
+NODESBFILE nodes.B 1
 SEED 21
