@@ -28,7 +28,7 @@ The following tutorials use simple example Markov chains to demonstrate various 
 - **mfpt\_dtmc**: repeats the same exercise for a discrete-time Markov chain (DTMC).
 - **kmc\_ab**: you will learn to use the standard kinetic Monte Carlo (kMC) algorithm to simulate &#120068; &#8592; &#120069; paths.
 - **kps\_ab**: you will learn to use the kinetic path sampling (kPS) algorithm to simulate &#120068; &#8592; &#120069; paths.
-- **kmc\_steadystate**: you will learn to use the kMC algorithm to simulate long trajectories of fixed time and extract steady-state (i.e. equilibrium) statistics for &#120068; &#8592; &#120069; paths.
+- **kmc\_steadystate**: you will learn to use the kMC algorithm to simulate long trajectories of fixed time and extract steady-state (i.e. equilibrium) statistics for &#120068; &#8592; &#120069; transition paths.
 - **dimredn**: you will learn to use kinetic path sampling (kPS) to simulate many short nonequilibrium trajectories initialised from each community, from which a coarse-grained Markov chain can be estimated and validated.
 - **rea**: you will learn to use the recursive enumeration algorithm (REA) to determine the *k* &#120068; &#8592; &#120069; first passage paths associated with the highest probabilities.
 
